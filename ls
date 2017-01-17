@@ -11,12 +11,8 @@ Device         Start       End   Sectors  Size Type
 /dev/sda3   50335744  67112959  16777216    8G Linux filesystem
 /dev/sda4   67115008 134223871  67108864   32G Linux filesystem
 /dev/sda5  134225920 396369919 262144000  125G Linux filesystem
-/dev/sda6  899178496 966287359  67108864   32G Microsoft basic data
+/dev/sda6  901275648 968384511  67108864   32G Linux filesystem
 /dev/sda7  972578816 976773119   4194304    2G Linux filesystem
 /dev/sda8  968384512 972578815   4194304    2G EFI System
-/dev/sda9  966287360 968384511   2097152    1G Linux filesystem
-/dev/sda10 832069632 899178495  67108864   32G Linux filesystem
-/dev/sda11 762863616 829972479  67108864   32G Linux filesystem
-/dev/sda12 829972480 832069631   2097152    1G Linux filesystem
 
 Partition table entries are not in disk order.
