@@ -6,7 +6,7 @@ Disklabel type: gpt
 Disk identifier: 6D9A257E-8D28-4042-A879-5E7EB551B307
 
 Device         Start       End   Sectors   Size Type
-/dev/sda1       2048  16779263  16777216     8G Linux filesystem
+/dev/sda1       2048  50337791  50335744    24G Linux filesystem
 /dev/sda2   50337792  67115007  16777216     8G Linux filesystem
 /dev/sda3  968384512 972578815   4194304     2G EFI System
 /dev/sda4   67115008 134223871  67108864    32G Linux filesystem
