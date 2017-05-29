@@ -5,14 +5,14 @@ I/O size (minimum/optimal): 4096 bytes / 4096 bytes
 Disklabel type: gpt
 Disk identifier: 6D9A257E-8D28-4042-A879-5E7EB551B307
 
-设备           Start      末尾      扇区   Size 类型
+Device         Start       End   Sectors   Size Type
 /dev/sda1       2048  16779263  16777216     8G Linux filesystem
 /dev/sda2   50337792  67115007  16777216     8G Linux filesystem
+/dev/sda3  968384512 972578815   4194304     2G EFI System
 /dev/sda4   67115008 134223871  67108864    32G Linux filesystem
 /dev/sda5  134225920 646225919 512000000 244.1G Linux filesystem
 /dev/sda6  964190208 968384511   4194304     2G Linux filesystem
 /dev/sda7  972578816 976773119   4194304     2G Linux filesystem
-/dev/sda8  968384512 972578815   4194304     2G EFI System
 /dev/sda9  829972480 964190207 134217728    64G Linux filesystem
 
 Partition table entries are not in disk order.
