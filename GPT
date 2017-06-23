@@ -13,5 +13,7 @@ Disk identifier: 6D9A257E-8D28-4042-A879-5E7EB551B307
 /dev/sda5  134225920 646225919 512000000 244.1G Linux filesystem
 /dev/sda6  834166784 968384511 134217728    64G Linux filesystem
 /dev/sda7  972578816 976773119   4194304     2G Linux filesystem
+/dev/sda8  699949056 834166783 134217728    64G Linux filesystem
+/dev/sda9  695754752 699949055   4194304     2G Linux filesystem
 
 Partition table entries are not in disk order.
