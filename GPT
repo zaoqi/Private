@@ -17,5 +17,6 @@ Device         Start       End   Sectors   Size Type
 /dev/sda9  695754752 699949055   4194304     2G Linux filesystem
 /dev/sda10 691849216 695754751   3905536   1.9G Linux filesystem
 /dev/sda11 624740352 691849215  67108864    32G Linux filesystem
+/dev/sda12 620546048 624740351   4194304     2G Linux filesystem
 
 Partition table entries are not in disk order.
