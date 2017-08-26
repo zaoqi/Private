@@ -1,22 +1,22 @@
-Disk /dev/sda: 465.8 GiB, 500107862016 bytes, 976773168 sectors
-Units: sectors of 1 * 512 = 512 bytes
-Sector size (logical/physical): 512 bytes / 4096 bytes
-I/O size (minimum/optimal): 4096 bytes / 4096 bytes
-Disklabel type: gpt
-Disk identifier: 6D9A257E-8D28-4042-A879-5E7EB551B307
+Disk /dev/sda：465.8 GiB，500107862016 字节，976773168 个扇区
+单元：扇区 / 1 * 512 = 512 字节
+扇区大小(逻辑/物理)：512 字节 / 4096 字节
+I/O 大小(最小/最佳)：4096 字节 / 4096 字节
+磁盘标签类型：gpt
+磁盘标识符：6D9A257E-8D28-4042-A879-5E7EB551B307
 
-Device         Start       End   Sectors   Size Type
-/dev/sda1       2048  50337791  50335744    24G Linux filesystem
-/dev/sda2   50337792  67115007  16777216     8G Linux filesystem
-/dev/sda3  968384512 972578815   4194304     2G EFI System
-/dev/sda4   67115008 134223871  67108864    32G Linux filesystem
-/dev/sda5  134225920 620474367 486248448 231.9G Linux filesystem
-/dev/sda6  834166784 968384511 134217728    64G Linux filesystem
-/dev/sda7  972578816 976773119   4194304     2G Linux filesystem
-/dev/sda8  699949056 834166783 134217728    64G Linux filesystem
-/dev/sda9  695754752 699949055   4194304     2G Linux filesystem
-/dev/sda10 691849216 695754751   3905536   1.9G Linux filesystem
-/dev/sda11 624740352 691849215  67108864    32G Linux filesystem
-/dev/sda12 620546048 624740351   4194304     2G Linux filesystem
+设备            起点      末尾      扇区   大小 类型
+/dev/sda1       2048  50337791  50335744    24G Linux 文件系统
+/dev/sda2   50337792  67115007  16777216     8G Linux 文件系统
+/dev/sda3  968384512 972578815   4194304     2G EFI 系统
+/dev/sda4   67115008 134223871  67108864    32G Linux 文件系统
+/dev/sda5  134225920 620474367 486248448 231.9G Linux 文件系统
+/dev/sda6  834166784 968384511 134217728    64G Linux 文件系统
+/dev/sda7  972578816 976773119   4194304     2G Linux 文件系统
+/dev/sda8  699949056 834166783 134217728    64G Linux 文件系统
+/dev/sda9  695754752 699949055   4194304     2G Linux 文件系统
+/dev/sda10 691849216 695754751   3905536   1.9G Linux 文件系统
+/dev/sda11 624740352 691849215  67108864    32G Linux 文件系统
+/dev/sda12 620546048 624740351   4194304     2G Linux 文件系统
 
-Partition table entries are not in disk order.
+分区表记录没有按磁盘顺序。
